@@ -1,4 +1,4 @@
-# Politcal-Polarization-
+# Political-Polarization-
 
 ```{r}
 # load twitter library - the rtweet library is recommended now over twitteR
